@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Projeto-apeperia
+Projeto Educacional de Layouts responsivos Mobile first.
